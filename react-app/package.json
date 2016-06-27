@@ -65,6 +65,7 @@
     "postcss-loader": "^0.8.0"
   },
   "dependencies": {
+    "alt": "^0.18.4",
     "classnames": "^2.2.5",
     "core-js": "^2.0.0",
     "normalize.css": "^4.0.0",

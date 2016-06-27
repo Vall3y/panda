@@ -2,6 +2,8 @@ import React from 'react';
 
 import './index.scss';
 
+import { submitComment } from '../../actions/comments';
+
 import Form from './Form';
 import CommentList from './CommentList';
 
@@ -18,8 +20,8 @@ class CommentFeed extends React.Component {
     };
   }
 
-  handleFormSubmit(a, b, c) {
-    console.log('a, b, c:', a, b, c);
+  handleFormSubmit(comment) {
+    submitComment(comment);
   }
 
   handleFilterChange() {}
