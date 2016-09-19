@@ -1,0 +1,2065 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"actio",
+				"src/actions/voucher.js"
+			],
+			[
+				"handleVou",
+				"handleVoucherNoteChanged"
+			],
+			[
+				"Voucher",
+				"VoucherActions"
+			],
+			[
+				"getvouch",
+				"getVoucherFromStore"
+			],
+			[
+				"navig",
+				"src/stores/navigation.js"
+			],
+			[
+				"Navigatio",
+				"NavigationActions"
+			],
+			[
+				"jc",
+				"jc-sa	justify-content: space-around;"
+			],
+			[
+				"lib",
+				"src/lib/utils.js"
+			],
+			[
+				"export",
+				"export:function	ES6 Module Export Function"
+			],
+			[
+				"control",
+				"src/components/ControlButtons/index.js"
+			],
+			[
+				"getVouchers",
+				"getVouchersSuccess"
+			],
+			[
+				"Vouche",
+				"VoucherList"
+			],
+			[
+				"voucherlis",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"Vouch",
+				"VoucherActions"
+			],
+			[
+				"sidebar",
+				"react-app/src/stores/sidebar.js"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"inde",
+				"script/controllers/IndexCtrl.js"
+			],
+			[
+				"aficionado",
+				"aficionado-popup--on"
+			],
+			[
+				"aficiona",
+				"aficionadoPopupOn"
+			],
+			[
+				"aficiondo",
+				"aficionado"
+			],
+			[
+				"AFicion",
+				"AficionadoPopup"
+			],
+			[
+				"overla",
+				"overlayClassName"
+			],
+			[
+				"contrib",
+				"contribToRepo"
+			],
+			[
+				"handle",
+				"handleMenuToggled"
+			],
+			[
+				"configconsta",
+				"portal/assets/spas/dvcat/ConfigConstants.js"
+			],
+			[
+				"entity",
+				"entitySchema"
+			],
+			[
+				"Autosugg",
+				"portal/assets/spas/lib/components/Autosuggest/index.js"
+			],
+			[
+				"Dropdo",
+				"portal/assets/spas/lib/Dropdown.scss"
+			],
+			[
+				"Autosuggest",
+				"portal/assets/spas/lib/components/Autosuggest/index.js"
+			],
+			[
+				"getSugg",
+				"getSuggestions"
+			],
+			[
+				"getSugge",
+				"getSuggestionValue"
+			],
+			[
+				"bl",
+				"bloodhoundConfig"
+			],
+			[
+				"CloudIcon",
+				"portal/assets/spas/lib/components/CloudIcon/index.js"
+			],
+			[
+				"config",
+				"portal/assets/spas/lib/consts/config.js"
+			],
+			[
+				"expo",
+				"export:variable	ES6 Module Export Variable"
+			],
+			[
+				"valida",
+				"validateField"
+			],
+			[
+				"utils",
+				"portal/assets/spas/dvcat/utils/entitySchema/utils.js"
+			],
+			[
+				"curre",
+				"current_branch_name"
+			],
+			[
+				"default",
+				"defaultProps"
+			],
+			[
+				"transform",
+				"transformOutput"
+			],
+			[
+				"transfo",
+				"transformData"
+			],
+			[
+				"creaL",
+				"createLocationSuccess"
+			],
+			[
+				"cur",
+				"current_branch_name"
+			],
+			[
+				"SCREE",
+				"SCREEN_ID_1"
+			],
+			[
+				"scree",
+				"screenIds"
+			],
+			[
+				"Tab",
+				"TabItem"
+			],
+			[
+				"PropT",
+				"Prop Type func	React.PropType.func"
+			],
+			[
+				"location",
+				"locationIds"
+			],
+			[
+				"submit",
+				"submitEditExisting"
+			],
+			[
+				"submitEdi",
+				"submitEditExistingFailed"
+			],
+			[
+				"Propt",
+				"Prop Type func	React.PropType.func"
+			],
+			[
+				"AddLocationForm",
+				"portal/assets/spas/quixey-screens/components/dashboard/AddLocationForm/AddLocationForm.js"
+			],
+			[
+				"qdn_btn",
+				"qdn_btn--active"
+			],
+			[
+				"EditExistingLocations",
+				"portal/assets/spas/quixey-screens/components/dashboard/LocationSettingsDialog/EditExistingLocations/EditExistingLocations.js"
+			],
+			[
+				"Rea",
+				"React-Component	React Component"
+			],
+			[
+				"Reac",
+				"React-Component	React Component"
+			],
+			[
+				"isntance",
+				"instanceOfTabItem"
+			],
+			[
+				"PT",
+				"PropTypes"
+			],
+			[
+				"dialog",
+				"dialogProps"
+			],
+			[
+				"position",
+				"portal/static/css/lib/position.css"
+			],
+			[
+				"TabbedDialog",
+				"portal/assets/spas/lib/components/dialog/TabbedDialog/TabbedDialog.js"
+			],
+			[
+				"UnderlinedTitle",
+				"portal/assets/spas/lib/components/dialog/UnderlinedTitle/Underlined-Title.js"
+			],
+			[
+				"LocationSettings",
+				"portal/assets/spas/quixey-screens/stores/screen/LocationSettingsStore.js"
+			],
+			[
+				"LocationSettingsDialog",
+				"portal/assets/spas/quixey-screens/components/dashboard/LocationSettingsDialog/LocationSettingsDialog.js"
+			],
+			[
+				"tool",
+				"tooltip_element"
+			],
+			[
+				"Dropdown",
+				"LocationDropdown"
+			],
+			[
+				"propTyp",
+				"PropTypes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"qdn",
+				"qdn_btn--padded"
+			],
+			[
+				"loca",
+				"locationsDropdownList"
+			],
+			[
+				"locationDropd",
+				"getLocationsDropdownList"
+			],
+			[
+				"getLocatio",
+				"getLocationsDropdownList"
+			],
+			[
+				"partner",
+				"partnerLocations"
+			],
+			[
+				"pRopT",
+				"PropTypes"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"Prop",
+				"Prop Type func	React.PropType.func"
+			],
+			[
+				"drop",
+				"dropdownProps"
+			],
+			[
+				"LocationDropdown",
+				"portal/assets/spas/lib/components/LocationDropdown/LocationDropdown.js"
+			],
+			[
+				"toBe",
+				"toBeTruthy"
+			],
+			[
+				"configdashboard",
+				"portal/assets/spas/quixey-screens/components/dashboard/ConfigDashboard.js"
+			],
+			[
+				"render",
+				"renderConfigRowBody"
+			],
+			[
+				"changeCta",
+				"changeCtaSpy"
+			],
+			[
+				"changeC",
+				"changeCtaSpy"
+			],
+			[
+				"find",
+				"findRenderedDOMComponentWithClass"
+			],
+			[
+				"dispat",
+				"dispatchSpy"
+			],
+			[
+				"getClou",
+				"getCloudFurlConfigRequestData"
+			],
+			[
+				"display",
+				"displayContent"
+			],
+			[
+				"form",
+				"form-field_input"
+			],
+			[
+				"addition",
+				"additionalAttrs"
+			],
+			[
+				"input",
+				"inputType"
+			],
+			[
+				"PortalDVC",
+				"portal/assets/spas/lib/components/Cards/PortalDVC/PortalDVC.js"
+			],
+			[
+				"dropdown",
+				"dropdownList"
+			],
+			[
+				"di",
+				"d-i	display: inline;"
+			],
+			[
+				"define",
+				"define-cta_select-cta"
+			],
+			[
+				"ColorPi",
+				"portal/assets/spas/lib/components/Colorpicker/Colorpicker.js"
+			],
+			[
+				"FormField",
+				"portal/assets/spas/lib/components/FormField/FormField.js"
+			],
+			[
+				"onColor",
+				"onColorChangeSpy"
+			],
+			[
+				"dummyDvc",
+				"dummyDvcData"
+			],
+			[
+				"dummy",
+				"dummyDvcData"
+			],
+			[
+				"styling",
+				"styling-menu_buttons"
+			],
+			[
+				"Colorpicker",
+				"portal/assets/spas/lib/components/Colorpicker/Colorpicker.js"
+			],
+			[
+				"cardFormats",
+				"portal/assets/spas/utils/cardFormats.js"
+			],
+			[
+				"search",
+				"searchResult"
+			],
+			[
+				"sear",
+				"searchResult"
+			],
+			[
+				"DEFAULT",
+				"defaultProp"
+			],
+			[
+				"websdkjs",
+				"portal/assets/spas/utils/helpers/websdk.js"
+			],
+			[
+				"addit",
+				"additionalProps"
+			],
+			[
+				"dummydvc",
+				"portal/assets/spas/lib/components/Cards/lib/DummyDVC/DummyDVC.js"
+			],
+			[
+				"Dumm",
+				"portal/assets/spas/lib/components/Cards/lib/DummyDVC/DummyDVC.js"
+			],
+			[
+				"cardsscss",
+				"portal/assets/scss/lib/components/cards.scss"
+			],
+			[
+				"websdk",
+				"portal/assets/spas/utils/helpers/websdk.js"
+			],
+			[
+				"formdialog",
+				"portal/assets/spas/lib/components/dialog/FormDialog.js"
+			],
+			[
+				"parse",
+				"parsePartnerData"
+			],
+			[
+				"webta",
+				"webtagElem"
+			],
+			[
+				"defaul",
+				"defaultProps"
+			],
+			[
+				"_parse",
+				"_pasreFieldsElements"
+			],
+			[
+				"results",
+				"resultsType"
+			],
+			[
+				"StaticSea",
+				"StaticSearchActions"
+			],
+			[
+				"RADIOB",
+				"RADIO_BUTTON_GROUP_LIST"
+			],
+			[
+				"appCard",
+				"appCardResults"
+			],
+			[
+				"qdn_",
+				"qdn_form_field"
+			],
+			[
+				"RadioButt",
+				"portal/assets/spas/lib/RadioButton.js"
+			],
+			[
+				"ScreenS",
+				"ScreenSettingsDialog"
+			],
+			[
+				"textarea",
+				"TextareaName"
+			],
+			[
+				"Texta",
+				"TextareaValue"
+			],
+			[
+				"Scree",
+				"ScreenSettingsActions"
+			],
+			[
+				"Field",
+				"FieldName"
+			],
+			[
+				"onSubm",
+				"onSubmitSpy"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "gscf",
+		"selected_items":
+		[
+			[
+				"gscf",
+				"Git: Show Current File"
+			],
+			[
+				"cr",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"gcccf",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitdiff",
+				"Git: Diff All Files"
+			],
+			[
+				"enablelin",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"jsonre",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"gitblam",
+				"Git: Blame"
+			],
+			[
+				"gdcf",
+				"Git: Diff Current File"
+			],
+			[
+				"copyre",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"cssnex",
+				"Cssnext"
+			],
+			[
+				"ssnext",
+				"Cssnext"
+			],
+			[
+				"enabllin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"gccf",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitshcf",
+				"Git: Show Current File"
+			],
+			[
+				"gcc",
+				"Git: Checkout Current File"
+			],
+			[
+				"enabllint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"enablelinti",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"disablel",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsonrein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jsonreind",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"gitlbam",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"copy",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"cop",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"giblam",
+				"Git: Blame"
+			],
+			[
+				"ssbabel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ssjsbabel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"gitbam",
+				"Git: Blame"
+			],
+			[
+				"gitshowcf",
+				"Git: Show Current File"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gitlb",
+				"Git: Blame"
+			],
+			[
+				"sssass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"disablepac",
+				"Package Control: Disable Package"
+			],
+			[
+				"enablepack",
+				"Package Control: Enable Package"
+			],
+			[
+				"disablepack",
+				"Package Control: Disable Package"
+			],
+			[
+				"disablpack",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitstash",
+				"Git: Stash Changes"
+			],
+			[
+				"gitgrap",
+				"Git: Graph All"
+			],
+			[
+				"ssscss",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssreac",
+				"Set Syntax: React Templates"
+			],
+			[
+				"ssjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSX"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"instalpack",
+				"Package Control: Install Package"
+			],
+			[
+				"gitshow",
+				"Git: Show Current File"
+			],
+			[
+				"closeal",
+				"File: Close All"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"ssrea",
+				"Set Syntax: React Templates"
+			],
+			[
+				"gblam",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"gitscf",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"copre",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"show",
+				"Git: Show Current File"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"g",
+				"Git: Blame"
+			],
+			[
+				"GITBL",
+				"Git: Blame"
+			],
+			[
+				"dcf",
+				"Git: Diff Current File"
+			],
+			[
+				"fuzzset",
+				"FuzzyFilePath: Set project directory"
+			],
+			[
+				"fuzz",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"fuzzy",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"coy",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"git cc",
+				"Git: Checkout Current File"
+			],
+			[
+				"snippet React",
+				"Snippet: React Component Test"
+			],
+			[
+				"gitcccf",
+				"Git: Checkout Current File"
+			],
+			[
+				"G",
+				"Git: Blame"
+			],
+			[
+				"jsonin",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"gccc",
+				"Git: Checkout Current File"
+			],
+			[
+				"gccof",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"SSJS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copyr",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"javadoc",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"yre",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"gb",
+				"Git: Blame"
+			],
+			[
+				"co",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"ssreact",
+				"Set Syntax: React Templates"
+			],
+			[
+				"gd",
+				"Git: Diff Tool All"
+			],
+			[
+				"jsonrei",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"gbla",
+				"Git: Blame"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"gitshocf",
+				"Git: Show Current File"
+			],
+			[
+				"gitblma",
+				"Git: Blame"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"giblame",
+				"Git: Blame"
+			],
+			[
+				"gitsh",
+				"Git: Show Current File"
+			],
+			[
+				"Snippet: lo",
+				"Snippet: Log"
+			],
+			[
+				"jsnext",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"copyrte",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"copyere",
+				"Copy Relative Path: Copy"
+			],
+			[
+				"ssjosn",
+				"Set Syntax: JSON"
+			],
+			[
+				"reindent",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"gitshowc",
+				"Git: Show Current File"
+			],
+			[
+				"sublimelintdisab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"giscf",
+				"Git: Show Current File"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"ssrb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"enablel",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"closa",
+				"File: Close All"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"gibl",
+				"Git: Blame"
+			],
+			[
+				"sublimlinte",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 464.0,
+		"history":
+		[
+			"sleep(3)",
+			"sleep(1)",
+			"from time import sleep",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/guyzissman/code/legacy/panda",
+		"/Users/guyzissman/code/legacy/panda/public",
+		"/Users/guyzissman/code/legacy/panda/public/assets",
+		"/Users/guyzissman/code/legacy/panda/react-app",
+		"/Users/guyzissman/code/legacy/panda/react-app/src/util"
+	],
+	"file_history":
+	[
+		"/Users/guyzissman/code/legacy/panda/react-app/src/util/commentUtil.js",
+		"/Users/guyzissman/code/legacy/panda/public/assets/app.js",
+		"/Users/guyzissman/code/zeek/src/components/VoucherList/index.js",
+		"/Users/guyzissman/code/zeek/src/components/VoucherDetails/index.js",
+		"/Users/guyzissman/code/zeek/src/components/ControlButtons/index.js",
+		"/Users/guyzissman/code/zeek/cfg/dist.js",
+		"/Users/guyzissman/code/zeek/package.json",
+		"/Users/guyzissman/code/zeek3/zeek/package.json",
+		"/Users/guyzissman/code/zeek/src/components/VoucherList/Item/index.js",
+		"/Users/guyzissman/code/zeek/src/actions/voucher.js",
+		"/Users/guyzissman/code/zeek/data.json",
+		"/Users/guyzissman/code/zeek/src/stores/voucher.js",
+		"/Users/guyzissman/code/zeek/src/components/Main.js",
+		"/Users/guyzissman/code/zeek/src/components/VoucherDetails/index.scss",
+		"/Users/guyzissman/code/zeek/src/actions/navigation.js",
+		"/Users/guyzissman/code/zeek/src/components/VoucherList/Item/index.scss",
+		"/Users/guyzissman/code/zeek/src/stores/navigation.js",
+		"/Users/guyzissman/code/zeek/src/lib/utils.js",
+		"/Users/guyzissman/code/zeek/src/components/ControlButtons/index.scss",
+		"/Users/guyzissman/code/zeek/src/components/VoucherList/lib.scss",
+		"/Users/guyzissman/code/zeek/src/components/VoucherList/index.scss",
+		"/Users/guyzissman/code/zeek/src/images/test",
+		"/Users/guyzissman/code/zeek/index.js",
+		"/Users/guyzissman/code/zeek/server.js",
+		"/Users/guyzissman/code/zeek/cfg/test.js",
+		"/Users/guyzissman/code/zeek/test/components/VoucherListTest.js",
+		"/Users/guyzissman/code/zeek/test/loadtests.js",
+		"/Users/guyzissman/code/zeek/karma.conf.js",
+		"/Users/guyzissman/code/zeek/webpack.config.js",
+		"/Users/guyzissman/code/zeek/.gitignore",
+		"/Users/guyzissman/code/zeek/src/styles/App.css",
+		"/Users/guyzissman/code/zeek/src/actions/data.js",
+		"/Users/guyzissman/code/zeek/src/alt.js",
+		"/Users/guyzissman/code/zeek/cfg/defaults.js",
+		"/Users/guyzissman/code/zeek/test/helpers/shallowRenderHelper.js",
+		"/Users/guyzissman/code/zeek/src/components/VouchersList/index.js",
+		"/Users/guyzissman/code/zeek/src/components/VouchersList/index.scss",
+		"/Users/guyzissman/code/zeek/test/components/VoucherDetailsTest.js",
+		"/Users/guyzissman/code/zeek/zeek.sublime-project",
+		"/Users/guyzissman/code/zeek/dist/favicon.ico",
+		"/Users/guyzissman/code/playbuzz7/src/index.html",
+		"/Users/guyzissman/code/playbuzz7/src/app/main/main.controller.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/videoInputs/videoInputs.directive.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/videoInputs/videoInputs.directive.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/videoInputs/videoInputs.html",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/videoInputs/videoInputs.scss",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/malarkey/malarkey.directive.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/githubContributor/githubContributor.service.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/navbar/navbar.directive.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/webDevTec/webDevTec.service.spec.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/index.run.js",
+		"/Users/guyzissman/code/playbuzz7/gulpfile.js",
+		"/Users/guyzissman/code/playbuzz7/src/app/components/navbar/navbar.directive.js",
+		"/Users/guyzissman/code/playbuzz7/src/playbuzz7.sublime-project",
+		"/Users/guyzissman/code/playbuzz7/node_modules/eslint/lib/config/config-file.js",
+		"/Users/guyzissman/code/playbuzz4/gulpfile.js",
+		"/Users/guyzissman/code/load_nvm.sh",
+		"/Users/guyzissman/code/load_nvm",
+		"/Users/guyzissman/.bash_profile",
+		"/Users/guyzissman/code/playbuzz2/index.html",
+		"/Users/guyzissman/code/playbuzz/node_modules/normalize-package-data/test/github-urls.js",
+		"/Users/guyzissman/code/blazemeter/react-app/src/styles/App.css",
+		"/Users/guyzissman/code/blazemeter/instructions.md",
+		"/Users/guyzissman/code/blazemeter/react-app/src/stores/sidebar.js",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Sidebar/SidebarItem/index.js",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Sidebar/lib.scss",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Sidebar/SidebarItem/index.scss",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Sidebar/index.scss",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Main.js",
+		"/Users/guyzissman/code/blazemeter/react-app/package.json",
+		"/Users/guyzissman/code/blazemeter/react-app/src/actions/sidebar.js",
+		"/Users/guyzissman/code/blazemeter/react-app/dist/index.html",
+		"/Users/guyzissman/code/blazemeter/react-app/cfg/defaults.js",
+		"/Users/guyzissman/code/blazemeter/react-app/webpack.config.js",
+		"/Users/guyzissman/code/blazemeter/react-app/node_modules/isparta-instrumenter-loader/node_modules/lodash/internal/baseSortByOrder.js",
+		"/Users/guyzissman/code/blazemeter/package.json",
+		"/Users/guyzissman/code/blazemeter/index.js",
+		"/Users/guyzissman/code/blazemeter/sidebar.json",
+		"/Users/guyzissman/code/blazemeter/react-app/src/components/Sidebar/Item/index.js",
+		"/Users/guyzissman/code/blazemeter/react-app/src/alt.js",
+		"/Users/guyzissman/code/blazemeter/index.html",
+		"/Users/guyzissman/code/mobilize/script/controllers/ProfileCtrl.js",
+		"/Users/guyzissman/code/mobilize/script/services/userService.js",
+		"/Users/guyzissman/code/mobilize/index.js",
+		"/Users/guyzissman/code/mobilize/package.json",
+		"/Users/guyzissman/code/mobilize/style/directives/userCard.css",
+		"/Users/guyzissman/code/mobilize/style/directives/userProfile.css",
+		"/Users/guyzissman/code/mobilize/style/index.css",
+		"/Users/guyzissman/code/mobilize/index.html",
+		"/Users/guyzissman/code/mobilize/templates/indexCtrl.html",
+		"/Users/guyzissman/code/mobilize/templates/profileCtrl.html",
+		"/Users/guyzissman/code/mobilize/script/controllers/IndexCtrl.js",
+		"/Users/guyzissman/code/mobilize/templates/userCard.html",
+		"/Users/guyzissman/code/mobilize/script/app.js",
+		"/Users/guyzissman/code/mobilize/templates/index.html",
+		"/Users/guyzissman/code/mobilize/script/controllers/AppCtrl.js",
+		"/Users/guyzissman/code/mobilize/users.json",
+		"/Users/guyzissman/code/mobilize/templates/userProfile.html",
+		"/Users/guyzissman/code/mobilize/script/services/navService.js",
+		"/Users/guyzissman/code/mobilize/script/directives/userProfile.js",
+		"/Users/guyzissman/code/mobilize/script/directives/userCard.js",
+		"/Users/guyzissman/code/mobilize/script/services/configService.js",
+		"/Users/guyzissman/code/magen/index.html",
+		"/Users/guyzissman/code/mobilize/.gitignore",
+		"/Users/guyzissman/code/ps2/web_modules/Header/index.js",
+		"/Users/guyzissman/code/ps2/web_modules/Header/AficionadoPopup/index.js",
+		"/Users/guyzissman/code/ps2/web_modules/Header/AficionadoPopup/index.css",
+		"/Users/guyzissman/code/ps2/package.json",
+		"/Users/guyzissman/code/ps2/web_modules/Header/index.css",
+		"/Users/guyzissman/code/ps2/web_modules/Header/AficionadoPopup.js",
+		"/Users/guyzissman/code/ps2/web_modules/LayoutContainer/index.js",
+		"/Users/guyzissman/code/ps2/web_modules/LayoutContainer/index.css",
+		"/Users/guyzissman/code/ps2/web_modules/LeftNav/index.css",
+		"/Users/guyzissman/code/ps2/content/index.md",
+		"/Users/guyzissman/code/ps2/Procfile",
+		"/Users/guyzissman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/guyzissman/code/ps2/web_modules/app/colors.css",
+		"/Users/guyzissman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/guyzissman/code/ps2/scripts/webpack.config.client.js",
+		"/Users/guyzissman/code/ps2/scripts/webpack.config.babel.js",
+		"/Users/guyzissman/code/ps2/web_modules/LeftNav/index.js",
+		"/Users/guyzissman/code/ps2/node_modules/material-ui/lib/left-nav.js",
+		"/Users/guyzissman/code/ps2/content/pages/contributions.md",
+		"/Users/guyzissman/code/ps2/web_modules/layouts/Contribs/index.js",
+		"/Users/guyzissman/code/ps2/web_modules/app/routes.js",
+		"/Users/guyzissman/code/ps2/index.html",
+		"/Users/guyzissman/code/ps2/scripts/config.js",
+		"/Users/guyzissman/code/ps2/content/posts/first-post.md"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+			"",
+			"/Users/guyzissman/code/ps2/web_modules/layouts",
+			"",
+			"/Users/guyzissman/code/app-portal/portal/assets/spas/quixey-screens/components/select-dvc/Autosuggest",
+			"",
+			"**/*.js",
+			"",
+			"/Users/guyzissman/code/app-portal/portal/assets/spas/lib/components/dialog/UnderlinedTitle",
+			"",
+			"/Users/guyzissman/code/app-portal/portal/assets/spas/quixey-screens/components/dashboard",
+			"",
+			"devapi.utils.gdatetime",
+			"from devapi.utils.gdatetime",
+			"",
+			"/Users/guyzissman/code/Developer-Portal/portal/assets/spas/dvcat/components",
+			"",
+			"**/*-test.js",
+			"",
+			"**/*-test.js",
+			"**/*--test.js",
+			"",
+			"**/*.js",
+			"",
+			"/Users/guyzissman/code/Developer-Portal/devapi",
+			"",
+			"**/*-test.js",
+			"",
+			"/Users/guyzissman/code/Developer-Portal/portal/assets/spas/landing",
+			"",
+			"  ",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"// Pass the comments",
+			".where",
+			"test",
+			"fetch(",
+			"plugins",
+			"e, ",
+			"className",
+			"Approve",
+			"function",
+			"e, ",
+			"ControlButtons",
+			"<ControlButt",
+			"status",
+			"onNotesChanged",
+			"handleVoucherNoteChanged",
+			"boundUpdateVoucher",
+			"disabled",
+			"updatevoucher",
+			"paperVoucher",
+			"console.log",
+			"handleVoucherEdit",
+			"value=",
+			"ref=\"",
+			"handleNavigateBack",
+			"ref",
+			"ref=\"",
+			"props",
+			"VoucherStore",
+			"<div className=\"voucher-details__item__value\">",
+			"voucher-list__vouchers",
+			"voucher",
+			"navigateToVouch",
+			"VoucherList",
+			"voucherClicked",
+			"voucherclicked",
+			"onClick",
+			"VoucherStore",
+			"payload",
+			"Voucher",
+			"Navigate_To_Voucher_",
+			"formatDate",
+			"function",
+			"253px",
+			"side-margin",
+			"details",
+			" { ",
+			"background-color:",
+			"__button-",
+			"color:",
+			"side-margin",
+			"inline-image",
+			"classNames",
+			"asking",
+			"ed",
+			"margin-left",
+			" { margin-left",
+			"__copy",
+			"img",
+			"div",
+			"Item",
+			"VoucherStore",
+			"OnChange",
+			"onChange",
+			"Voucher",
+			"JSON.parse",
+			"\"",
+			"_get__",
+			"react-addons",
+			"sinon",
+			"Voucher'",
+			"Data",
+			"DataActions",
+			"GET_Voucher_ERROR",
+			"Data",
+			"DataStore",
+			"DataActions",
+			"__close",
+			") {",
+			"onChange",
+			"LocationStore",
+			"},",
+			"LocationStore",
+			"uocher-",
+			"postcss",
+			"header",
+			"multer",
+			"var",
+			"upload",
+			"test",
+			"karma",
+			"layout",
+			"splendid",
+			"spelndid toastr",
+			"spelndid toaster",
+			"mdContent",
+			"eslint-config-airbnb",
+			"wiredep",
+			"bower",
+			"$header-block-height",
+			"handleFilterChanged",
+			"boundHandleFilterChanged",
+			"boundHandleFilterChange",
+			"Sort",
+			"36px",
+			"ascendingSort",
+			"Close",
+			"classNames",
+			"36px",
+			"8px",
+			"inline-icon",
+			"postcss:",
+			"postcss",
+			"() => ",
+			"HANDLE_",
+			"testType",
+			"x",
+			"handle_Close",
+			"handleRefresh",
+			"h2",
+			"Item",
+			"AppComponent",
+			"true",
+			"get_Data_Error",
+			"AppComponent",
+			"LocationActions",
+			"SidebarStore",
+			"-",
+			"getCachedUser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"angular.module",
+			"PHENOMIC",
+			"Phenomic",
+			"phenomic",
+			",\n",
+			"#!/",
+			"devapi.utils.qdatetime",
+			"devapi.utils.gdatetime",
+			"",
+			"array",
+			"import",
+			"gray-medium",
+			"gray-light",
+			"$alt-shadow",
+			"$xml-",
+			"$gray-border",
+			"blue-alt",
+			"$title-color",
+			"$diminished-gray",
+			"$gray-input-border",
+			"$gray-dark",
+			"$gray-medium-well",
+			"$gray-medium",
+			"$gray-light",
+			"g_add-btn--small",
+			"/DVStep/",
+			"NewAppStore",
+			"inline-image",
+			"diminished-text",
+			"highlighted-text",
+			"subtitle",
+			"subtitle-text",
+			"subtitle",
+			"speech-bubble--left",
+			"speech-bubble--top",
+			"upload_sps_to_storage",
+			"publish_deep_view_data_to_storage",
+			"put_file_from_string",
+			"upload_apk_to_storage_async",
+			"download_apk_from_store_and_upload_to_storage_async"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "pnd.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packjso",
+				"package.json"
+			],
+			[
+				"",
+				"cfg/dist.js"
+			],
+			[
+				"acitovouch",
+				"src/actions/voucher.js"
+			],
+			[
+				"actiovouch",
+				"src/actions/voucher.js"
+			],
+			[
+				"dist",
+				"cfg/dist.js"
+			],
+			[
+				"controlbunindj",
+				"src/components/ControlButtons/index.js"
+			],
+			[
+				"actiovouche",
+				"src/actions/voucher.js"
+			],
+			[
+				"controlbuttonsindej",
+				"src/components/ControlButtons/index.js"
+			],
+			[
+				"controlbuttond",
+				"src/components/ControlButtons/index.js"
+			],
+			[
+				"datajso",
+				"data.json"
+			],
+			[
+				"detailsindejs",
+				"src/components/VoucherDetails/index.js"
+			],
+			[
+				"voucheritemindej",
+				"src/components/VoucherList/Item/index.js"
+			],
+			[
+				"voucherlist",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"voucherlistindejs",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"mainj",
+				"src/components/Main.js"
+			],
+			[
+				"detalisindej",
+				"src/components/VoucherDetails/index.js"
+			],
+			[
+				"storevouche",
+				"src/stores/voucher.js"
+			],
+			[
+				"actionav",
+				"src/actions/navigation.js"
+			],
+			[
+				"indexscss",
+				"src/components/VoucherList/Item/index.scss"
+			],
+			[
+				"datajs",
+				"data.json"
+			],
+			[
+				"vouchlistindj",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"navig",
+				"src/stores/navigation.js"
+			],
+			[
+				"itemindej",
+				"src/components/VoucherList/Item/index.js"
+			],
+			[
+				"main",
+				"src/components/Main.js"
+			],
+			[
+				"storenavi",
+				"src/stores/navigation.js"
+			],
+			[
+				"navi",
+				"src/actions/navigation.js"
+			],
+			[
+				"stores",
+				"src/stores/voucher.js"
+			],
+			[
+				"utils",
+				"src/lib/utils.js"
+			],
+			[
+				"dataj",
+				"data.json"
+			],
+			[
+				"itemindescs",
+				"src/components/VoucherList/Item/index.scss"
+			],
+			[
+				"controlbut",
+				"src/components/ControlButtons/index.js"
+			],
+			[
+				"data",
+				"data.json"
+			],
+			[
+				"voucherlistindexjs",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"item",
+				"src/components/VoucherList/Item/index.js"
+			],
+			[
+				"storevuch",
+				"src/stores/voucher.js"
+			],
+			[
+				"vouchelistindej",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"storevouch",
+				"src/stores/voucher.js"
+			],
+			[
+				"action",
+				"src/actions/voucher.js"
+			],
+			[
+				"indej",
+				"index.js"
+			],
+			[
+				"inedxjs",
+				"index.js"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"storevouc",
+				"src/stores/voucher.js"
+			],
+			[
+				"voucherlistinde",
+				"src/components/VoucherList/index.js"
+			],
+			[
+				"test",
+				"cfg/test.js"
+			],
+			[
+				"loadtest",
+				"test/loadtests.js"
+			],
+			[
+				"packjs",
+				"package.json"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"karmacon",
+				"karma.conf.js"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"actiodata",
+				"src/actions/data.js"
+			],
+			[
+				"storedat",
+				"src/stores/data.js"
+			],
+			[
+				"actions/data",
+				"src/actions/data.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"appcs",
+				"src/styles/App.css"
+			],
+			[
+				"shallowrenderhelper",
+				"test/helpers/shallowRenderHelper.js"
+			],
+			[
+				"loadtes",
+				"test/loadtests.js"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"acmenavbar",
+				"src/app/components/navbar/navbar.directive.js"
+			],
+			[
+				"config-file.js",
+				"node_modules/eslint/lib/config/config-file.js"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"gu",
+				"node_modules/normalize-package-data/test/github-urls.js"
+			],
+			[
+				"instruc",
+				"instructions.md"
+			],
+			[
+				"sidebarindexjs",
+				"react-app/src/components/Sidebar/index.js"
+			],
+			[
+				"instructio",
+				"instructions.md"
+			],
+			[
+				"appcss",
+				"react-app/src/styles/App.css"
+			],
+			[
+				"sidebarscss",
+				"react-app/src/components/Sidebar/index.scss"
+			],
+			[
+				"storesideba",
+				"react-app/src/stores/sidebar.js"
+			],
+			[
+				"stylecss",
+				"react-app/src/styles/App.css"
+			],
+			[
+				"webpackconfig",
+				"react-app/webpack.config.js"
+			],
+			[
+				"packjson",
+				"react-app/package.json"
+			],
+			[
+				"sidebarindej",
+				"react-app/src/components/Sidebar/index.js"
+			],
+			[
+				"storsideba",
+				"react-app/src/stores/sidebar.js"
+			],
+			[
+				"sidebarstore",
+				"react-app/node_modules/isparta-instrumenter-loader/node_modules/lodash/internal/baseSortByOrder.js"
+			],
+			[
+				"storeside",
+				"react-app/src/stores/sidebar.js"
+			],
+			[
+				"indexhtm",
+				"react-app/dist/index.html"
+			],
+			[
+				"actiosidebar",
+				"react-app/src/actions/sidebar.js"
+			],
+			[
+				"sidebariteminde",
+				"react-app/src/components/Sidebar/SidebarItem/index.js"
+			],
+			[
+				"sidebarjs",
+				"sidebar.json"
+			],
+			[
+				"indexjs",
+				"index.js"
+			],
+			[
+				"sidebarjso",
+				"sidebar.json"
+			],
+			[
+				"actionsisdeba",
+				"react-app/src/actions/sidebar.js"
+			],
+			[
+				"instruct",
+				"instructions.md"
+			],
+			[
+				"storesidebar",
+				"react-app/src/stores/sidebar.js"
+			],
+			[
+				"altj",
+				"react-app/src/alt.js"
+			],
+			[
+				"app.css",
+				"react-app/src/styles/App.css"
+			],
+			[
+				"compmain",
+				"react-app/src/components/Main.js"
+			],
+			[
+				"packjo",
+				"package.json"
+			],
+			[
+				"indejs",
+				"index.js"
+			],
+			[
+				"userser",
+				"script/services/userService.js"
+			],
+			[
+				"profilectr",
+				"script/controllers/ProfileCtrl.js"
+			],
+			[
+				"usercardcss",
+				"style/directives/userCard.css"
+			],
+			[
+				"indexctrlhtml",
+				"templates/indexCtrl.html"
+			],
+			[
+				"indexcss",
+				"style/index.css"
+			],
+			[
+				"indectrl",
+				"templates/indexCtrl.html"
+			],
+			[
+				"indecss",
+				"style/index.css"
+			],
+			[
+				"profilectrhtm",
+				"templates/profileCtrl.html"
+			],
+			[
+				"profile",
+				"script/controllers/ProfileCtrl.js"
+			],
+			[
+				"indectr",
+				"templates/indexCtrl.html"
+			],
+			[
+				"indehtml",
+				"templates/indexCtrl.html"
+			],
+			[
+				"appj",
+				"script/app.js"
+			],
+			[
+				"usercardht",
+				"templates/userCard.html"
+			],
+			[
+				"indectrljs",
+				"script/controllers/IndexCtrl.js"
+			],
+			[
+				"appctrl",
+				"script/controllers/AppCtrl.js"
+			],
+			[
+				"uerser",
+				"script/services/userService.js"
+			],
+			[
+				"appjs",
+				"script/app.js"
+			],
+			[
+				"userjson",
+				"users.json"
+			],
+			[
+				"profilectjs",
+				"script/controllers/ProfileCtrl.js"
+			],
+			[
+				"profilect",
+				"templates/profileCtrl.html"
+			],
+			[
+				"indeht",
+				"index.html"
+			],
+			[
+				"indehtm",
+				"index.html"
+			],
+			[
+				"userproficss",
+				"style/directives/userProfile.css"
+			],
+			[
+				"userprofi",
+				"templates/userProfile.html"
+			],
+			[
+				"usercahtm",
+				"templates/userCard.html"
+			],
+			[
+				"userpo",
+				"templates/userProfile.html"
+			],
+			[
+				"userpor",
+				"templates/userProfile.html"
+			],
+			[
+				"indexhtml",
+				"index.html"
+			],
+			[
+				"usercardjs",
+				"script/directives/userCard.js"
+			],
+			[
+				"usercard",
+				"templates/userCard.html"
+			],
+			[
+				"profilec",
+				"script/controllers/ProfileCtrl.js"
+			],
+			[
+				"navser",
+				"script/services/navService.js"
+			],
+			[
+				"indexctrl",
+				"script/controllers/IndexCtrl.js"
+			],
+			[
+				"indexc",
+				"script/controllers/IndexCtrl.js"
+			],
+			[
+				"usercardhtm",
+				"templates/userCard.html"
+			],
+			[
+				"userservice",
+				"script/services/userService.js"
+			],
+			[
+				"indexht",
+				"index.html"
+			],
+			[
+				"indec",
+				"script/controllers/IndexCtrl.js"
+			],
+			[
+				"app",
+				"script/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "panda",
+		"selected_items":
+		[
+			[
+				"panda",
+				"~/code/panda/panda.sublime-workspace"
+			],
+			[
+				"",
+				"~/code/klarna.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"promiseWrapper",
+				"function promiseWrapper(req)"
+			]
+		],
+		"width": 939.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

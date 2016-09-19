@@ -1,0 +1,37 @@
+$avatar-size: 40px;
+
+.comment {
+  display: flex;
+  font-size: 1.2rem;
+
+  &__avatar {
+    width: $avatar-size;
+    height: $avatar-size;
+    flex-basis: $avatar-size;
+    flex: 0;
+
+    border-radius: 3px;
+    background-color: red;
+  }
+
+  &__fields {
+    margin-left: 10px;
+    margin-top: 2px;
+
+    flex: 1;
+    max-width: calc(100% - 50px);
+  }
+
+  &__email {
+    color: #454545;
+    font-weight: bold;
+  }
+
+  &__message {
+    color: #787878;
+    margin-top: 10px;
+    margin-top: 3px;
+
+    word-wrap: break-word;
+  }
+}

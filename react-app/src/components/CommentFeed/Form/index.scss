@@ -1,0 +1,43 @@
+@import '/../../../styles/lib';
+
+.form {
+  background-color: #EFEFEF;
+  padding: 20px $side-margin 30px;
+  text-align: right;
+
+  > * + * {
+    margin-top: 10px;
+  }
+
+  &__message {
+    height: 60px;
+  }
+
+  &__email {
+    height: 30px;
+    line-height: 30px;
+  }
+
+  &__input {
+    @include panda-input;
+
+    display: block;
+    width: 100%;
+  }
+
+  &__submit {
+    height: 30px;
+    line-height: 30px;
+    padding: 0 15px;
+    font-size: 0.8rem;
+
+    border: 0;
+    border-radius: 3px;
+    background-color: #41A7DB;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    display: inline-block;
+  }
+}

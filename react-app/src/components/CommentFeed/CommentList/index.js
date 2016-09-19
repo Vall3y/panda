@@ -1,9 +1,20 @@
 import React from 'react';
 import classNames from 'classnames';
 
+import './index.scss';
+
+import Comment from './Comment';
+
 const CommentList = ({ className, comments }) =>
   <div className={classNames('comment-list', className)}>
-    {comments}
+    {
+      comments.map(comment =>
+        <Comment
+          className="comment-list__comment"
+          {...comment}
+        />
+      )
+    }
   </div>;
 
 CommentList.propTypes = {

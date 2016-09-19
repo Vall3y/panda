@@ -1,6 +1,8 @@
 import React from 'react';
 import classNames from 'classnames';
 
+import './index.scss';
+
 class Form extends React.Component {
   constructor(props) {
     super(props);
@@ -11,13 +13,17 @@ class Form extends React.Component {
   handleSubmit(e) {
     e.preventDefault();
 
+    const { email, message } = this.refs;
+
+    if (!email.value || !message.value) return;
+
     this.props.onFormSubmit({
-      email: this.refs.email.value,
-      message: this.refs.message.value,
+      email: email.value,
+      message: message.value,
     });
 
-    this.refs.email.value = '';
-    this.refs.message.value = '';
+    email.value = '';
+    message.value = '';
   }
 
   render() {
@@ -26,9 +32,19 @@ class Form extends React.Component {
         className={classNames('form', this.props.className)}
         onSubmit={this.boundHandleSubmit}
       >
-        <input type="email" name="email" placeholder="Email" ref="email" />
-        <textarea name="message" placeholder="Message" ref="message" />
-        <input type="submit" />
+        <input
+          className="form__input form__email"
+          type="email" name="email"
+          placeholder="Email"
+          ref="email"
+        />
+        <textarea
+          className="form__input form__message"
+          name="message"
+          placeholder="Message"
+          ref="message"
+        />
+        <input className="form__submit" type="submit" />
       </form>
     );
   }

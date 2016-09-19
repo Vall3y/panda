@@ -1,0 +1,9 @@
+@import '../../../styles/lib';
+
+.comment-list {
+  margin: 0 $side-margin;
+
+  &__comment + &__comment {
+    margin-top: 20px;
+  }
+}

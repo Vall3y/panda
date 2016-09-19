@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/guyzissman/code/legacy/panda",
+			"folder_exclude_patterns": ["node_modules"]
+		}
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
+}

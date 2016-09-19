@@ -8,6 +8,7 @@
     "clean": "rimraf ../public/*",
     "copy": "copyfiles -f ./src/index.html ./src/favicon.ico ../public",
     "dist": "npm run copy & webpack --env=dist",
+    "builddev": "npm run copy & webpack --env=dev",
     "lint": "eslint ./src",
     "posttest": "npm run lint",
     "release:major": "npm version major && npm publish && git push --follow-tags",
@@ -68,8 +69,10 @@
     "alt": "^0.18.4",
     "classnames": "^2.2.5",
     "core-js": "^2.0.0",
+    "js-md5": "^0.4.1",
     "normalize.css": "^4.0.0",
     "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react-dom": "^15.0.0",
+    "superagent": "^2.0.0"
   }
 }

@@ -1,20 +1,28 @@
 import React from 'react';
+import classNames from 'classnames';
 import { getGravatarUrlByEmail } from './utils';
 
-const Comment = ({ email, message }) =>
-  <div className="comment">
+import './index.scss';
+
+const AVATAR_SIZE = 40;
+
+const Comment = ({ email, message, className }) =>
+  <div className={classNames('comment', className)}>
     <img
       className="comment__avatar"
-      alt={getGravatarUrlByEmail(email)}
-      src={getGravatarUrlByEmail(email)}
+      alt={getGravatarUrlByEmail(email, AVATAR_SIZE)}
+      src={getGravatarUrlByEmail(email, AVATAR_SIZE)}
     />
-    <div className="comment__email">{email}</div>
-    <div className="comment__message">{message}</div>
+    <div className="comment__fields">
+      <div className="comment__email">{email}</div>
+      <div className="comment__message">{message}</div>
+    </div>
   </div>;
 
 Comment.propTypes = {
-  email: React.PropTypes.array,
-  message: React.PropTypes.array,
+  className: React.PropTypes.className,
+  email: React.PropTypes.string,
+  message: React.PropTypes.string,
 };
 
 export default Comment;

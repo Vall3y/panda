@@ -4,19 +4,50 @@ import CommentActions from '../actions/comments';
 class CommentStore {
   constructor() {
     this.comments = [];
+    this.filter = '';
 
     this.bindListeners({
+      handleGetComments: CommentActions.GET_COMMENTS,
+      handleGetCommentsSuccess: CommentActions.GET_COMMENTS_SUCCESS,
+      handleGetCommentsError: CommentActions.GET_COMMENTS_ERROR,
       handleSubmitComment: CommentActions.SUBMIT_COMMENT,
-      handleFilterComments: CommentActions.FILTER_COMMENTS,
+      handleSubmitCommentSuccess: CommentActions.SUBMIT_COMMENT_SUCCESS,
+      handleSubmitCommentError: CommentActions.SUBMIT_COMMENT_ERROR,
+      handleChangeFilter: CommentActions.CHANGE_FILTER,
     });
   }
 
-  handleSubmitComment(comment) {
-    this.comments.push(comment);
+  handleGetComments() {
+    this.loading = true;
   }
 
-  handleFilterComments(filter) {
-    this.comments = filter;
+  handleGetCommentsSuccess(comments) {
+    this.comments = comments;
+    this.loading = false;
+  }
+
+  handleGetCommentsError(error) {
+    this.error = error;
+    this.loading = false;
+  }
+
+  handleSubmitComment() {
+    this.error = undefined;
+    this.loading = true;
+  }
+
+  handleSubmitCommentSuccess(comment) {
+    this.comments.push(comment);
+    this.loading = false;
+  }
+
+  handleSubmitCommentError(error) {
+    this.error = error;
+    this.loading = false;
+  }
+
+  handleChangeFilter(filter) {
+    this.filter = filter;
   }
 }
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "db": "mongod --dbpath ~/data/db --port 27047"
+    "db": "mongod --dbpath ~/data/db --port 27017"
   },
   "author": "",
   "license": "ISC",

@@ -35,9 +35,7 @@ app.post('/api/comment', upload.array(), (req, res) => {
   }
 
   dataRepo.insertComment(comment)
-    .then(id => {
-      res.send(id);
-    })
+    .then(commentId => res.send(commentId))
     .catch(err => {
       handleError(res, err);
     });

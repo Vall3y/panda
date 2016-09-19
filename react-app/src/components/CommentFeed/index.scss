@@ -1,0 +1,22 @@
+@import '../../styles/lib';
+
+.comment-feed {
+  width: 350px;
+  border: solid 1px #EFEFEF;
+
+  border-radius: 3px;
+
+  padding-bottom: 20px;
+
+  &__filter {
+    margin: 25px $side-margin;
+  }
+
+  &__filter-input {
+    @include panda-input;
+
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+  }
+}
